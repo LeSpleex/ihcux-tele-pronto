@@ -1,5 +1,5 @@
 # ihcux-tele-pronto
-👥 Integrantes: Pedro Antônio e Esdras Andrade
+Integrantes: Pedro Antônio e Esdras Andrade
 
 ## Acessibilidade
 O design prioriza o alto contraste e o uso de botões pretos sólidos sobre o fundo branco, criando âncoras visuais fáceis de enxergar mesmo com a vista embaçada. Para mitigar os dedos trêmulos, as áreas de toque são amplas, ocupando quase toda a largura da tela, e a interface substitui a digitação por comandos simplificados, como caixas de seleção grandes e um controle deslizante para medir a dor.
